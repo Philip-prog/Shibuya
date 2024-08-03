@@ -1,0 +1,46 @@
+body {
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    padding: 0 10px 0 10px;
+    background-color: #08131C;
+}
+
+#hero {
+    background-image: url("bridge.jpg");
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.sl {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 140px 0 140px;
+}
+
+#lr {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 347px;
+    background: #DEE3E4;
+    border-bottom: 10px solid #170F09;
+    color: #111217;
+}
+
+#str {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    height: 170px;
+}
+
+#st {
+    border-radius: 5px;
+    width: 100px;
+}
